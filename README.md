@@ -5,4 +5,4 @@ Im a complete beginner, so the code, data structure, etc might be fckd up. Forgi
 
 ## Dataset
 
-I use smaller HaGridV2 because the original is too big for my device, then extracted just 5000 data from each class
+I use smaller HaGridV2 because the original is too big for my device, then extracted just 1000 data from each class
